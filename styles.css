@@ -1,4 +1,16 @@
-img {
-  width: 100px;
+/* global element styling */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+#header-img {
+  width: 150px;
 }
 
